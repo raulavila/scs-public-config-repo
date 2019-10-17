@@ -7,7 +7,7 @@ hello:
 
 greeting:
   hello: Hello, World!!!
-  message: Yo
+  message: Yo2
 
 dummy:
   property: some value tweaked
